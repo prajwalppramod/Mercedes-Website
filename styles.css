@@ -1,0 +1,12 @@
+.hero{
+    background-image: url("https://media.tenor.com/vB85OJs5YiwAAAAC/mercedes.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #f0f8ff;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
